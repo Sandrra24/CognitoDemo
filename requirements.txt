@@ -74,7 +74,7 @@ supervisor==3.2.0
 tornado==5.1
 typing==3.6.4
 unity-lens-photos==1.0
-urllib3==1.23
+urllib3==1.26.5
 vine==1.1.4
 virtualenv==16.0.0
 webencodings==0.5.1
