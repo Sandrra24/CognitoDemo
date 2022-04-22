@@ -52,7 +52,7 @@ Pygments==2.2.0
 pygobject==3.26.1
 PyJWT==1.6.4
 pyparsing==2.2.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 python-dateutil==2.7.3
 python-memcached==1.59
 pytz==2018.5
