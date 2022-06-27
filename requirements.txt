@@ -60,7 +60,7 @@ pyxdg==0.25
 PyYAML==3.13
 rauth==0.7.3
 rcssmin==1.0.6
-reportlab==3.5.1
+reportlab==3.5.55
 requests==2.19.1
 rjsmin==1.0.12
 SecretStorage==2.3.1
