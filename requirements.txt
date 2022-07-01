@@ -70,7 +70,7 @@ snowballstemmer==1.2.1
 Sphinx==1.8.0b1
 sphinxcontrib-websupport==1.1.0
 sqlparse==0.2.4
-supervisor==3.2.0
+supervisor==3.2.4
 tornado==5.1
 typing==3.6.4
 unity-lens-photos==1.0
