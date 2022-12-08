@@ -6,7 +6,7 @@ Babel==2.6.0
 backports-abc==0.5
 billiard==3.5.0.4
 celery==4.2.1
-certifi==2018.4.16
+certifi==2022.12.7
 chardet==3.0.4
 cryptography==2.1.4
 dill==0.2.8.2
